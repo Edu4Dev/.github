@@ -1,12 +1,11 @@
-## Hi there 👋
+Nós somos a Edu4Dev 🌟, a Escola de Programação do Brasil que ensina teoria disruptiva com tecnologia própria 🚀. Desde 1998 e Top Rated na UpWork 🏆, somos especialistas em ensino prático! 💡
 
-<!--
+Mentoria online, aulas em grupo, consultorias no conforto da sua casa 🏠 - com a Edu4Dev, seu aprendizado é incrível! 🌟
 
-**Here are some ideas to get you started:**
+Nossos mentores atuam internacionalmente, desde 2018, se destacando na UpWork como TOP RATED na programação web 🌍. E estamos orgulhosos de ser parte do GitHub Developer Program 🐱, fornecendo suporte completo para você.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Faça uma década em apenas 1 mês! 🗓️ Com a escola de programação mais especializada do Brasil 🇧🇷, nossos cursos despertam a criatividade e o espírito empreendedor! 🎉
+
+E ainda ganhe um livro eletrizante 📖, um álbum musical empolgante 🎵, material didático 📚, inteligência artificial 🤖, hacker-book 🕵️ e muito mais! 🚀
+
+Conheça nossos módulos e venha conosco nesta aventura eletrizante! 🚀📖🎓👩‍💻 #Edu4Dev #Programação #Inovação #Brasil 🇧🇷
